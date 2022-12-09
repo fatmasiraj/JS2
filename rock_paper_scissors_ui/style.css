@@ -1,0 +1,31 @@
+* {
+    background-color: #DEE5E5;
+    text-align: center;
+
+}
+
+#container {
+    /* padding-top: 100px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 50px
+}
+
+button {
+    background-color: #9DC5BB;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+    width: 200px;
+    height: 100px;
+
+}
+
+#buttons {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
